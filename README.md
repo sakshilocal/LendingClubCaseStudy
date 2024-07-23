@@ -1,52 +1,39 @@
-# Project Name
-> Outline a brief description of your project.
+Lending Club Case Study
+
+Lending Club is a consumer finance marketplace that connects borrowers seeking personal loans with investors looking to lend money for a return. It specializes in providing various types of loans to customers. When the company receives a loan application, it must decide whether to approve the loan based on the applicant's profile.
+
+Like most lending companies, lending to 'risky' applicants is the largest source of financial loss, known as credit loss. Credit loss occurs when the lender loses money because the borrower refuses to pay or absconds with the money owed. In other words, borrowers who default cause the most significant loss to the lenders. In this context, customers labeled as 'charged-off' are considered 'defaulters'.
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+General Information
+The goal is to identify risky loan applicants so that such loans can be reduced, thereby cutting down the amount of credit loss. The aim of this case study is to use Exploratory Data Analysis (EDA) on the given dataset to identify these applicants.
+By identifying risky loan applicants, the company can minimize credit loss. The objective is to understand the driving factors (or driver variables) behind loan default, i.e., the variables that are strong indicators of default. The company can utilize this knowledge for better portfolio and risk assessment.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
+Conclusions
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+Technologies Used
+
+The entire analysis has been carried out in python
+We have used pandas library for data analysis
+Matplotlib.pyplot and Seaborn libraries were used for data visualization
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
+Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This project was created under AI ML course from IIIT Bangalore.
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
+ Contact
+Created by [@sakshilocal]
+@jranjith95
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
